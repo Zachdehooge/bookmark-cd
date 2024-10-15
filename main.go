@@ -1,12 +1,13 @@
 package main
 
 import (
-	bcd "bookmark-cd/bcd"
 	"fmt"
 	"log"
 	"os"
 	"path/filepath"
 	"strings"
+
+	bcd "github.com/omranjamal/bookmark-cd/bcd"
 )
 
 var version = "vvvv"
